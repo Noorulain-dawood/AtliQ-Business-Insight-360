@@ -1,6 +1,6 @@
 # AtliQ-Business-Insight-360
 
-Dashboard link: https://app.powerbi.com/links/yO3-PT-hQc?ctid=241ce7ee-5cbe-4736-aac4-fd9ff3cc1dd1&pbi_source=linkShare
+Dashboard link: https://app.powerbi.com/links/d-xgqeU4zW?ctid=241ce7ee-5cbe-4736-aac4-fd9ff3cc1dd1&pbi_source=linkShare
 
 
 Welcome to the Business Insight 360 project for Atliq. This repository features dashboards offering insights across Sales, Finance, Marketing, Executive, and Supply Chain. Designed for data-driven decision-making, these dashboards enhance efficiency and strategic planning by integrating KPIs and advanced analytics to empower stakeholders.
